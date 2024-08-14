@@ -44,5 +44,13 @@
   "/.deco/blocks/deco-htmx.json": {
     "blockType": "apps",
     "__resolveType": "site/apps/deco/htmx.ts"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FHeaderBannerFooter.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/HeaderBannerFooter.tsx"
+  },
+  "/.deco/blocks/Preview%20website%2Floaders%2Ffonts%2FgoogleFonts.ts.json": {
+    "blockType": "loaders",
+    "__resolveType": "website/loaders/fonts/googleFonts.ts"
   }
 }
