@@ -3,12 +3,13 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "site/sections/HeaderBannerFooter.tsx"
-    },
-    {
       "__resolveType": "site/sections/ItWorks.tsx",
       "name": "<p>Hello Everyone!</p>",
-      "count": 1
+      "count": 1,
+      "greeting": "<p>Hello Everyone!</p>",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12151/64bbccfb-378c-4e12-a573-ebda2a656198",
+      "backgroundColor": "#ffe5e5",
+      "textColor": "#ff00d0"
     },
     {
       "__resolveType": "Footer"
